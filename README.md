@@ -8,11 +8,10 @@ This is a project created to calculate latitude and longitude from multiples cep
 ## Content Tables
 
 
-- [Architecture](#Architecture)
+- [Architecture](#architecture)
 - [Features](#features)
-- [Instruções de execução](#instruções-de-execução)
-- [Contribua com o projeto](#contribua-com-o-projeto)
-- [Extra](#extra---adicione-badges)
+- [Settings to execute this project](#settings)
+- [Contributing](#contributing)
 
 
 ## Architecture
@@ -26,6 +25,10 @@ Here there's a big overview of the architecture in our initial version
 
 TBD
 
-## Settings to execute this project
+## Settings
+
+TBD
+
+## Contributing
 
 TBD
